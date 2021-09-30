@@ -3,6 +3,6 @@ void main()
 {
 	int n;
 	scanf("%d",&n);
-        (n%2==0)?(printf("\nEVEN";)):(printf("\nODD"););
+        (n%2==0)?(printf("\nEVEN")):(printf("\nODD"));
 }
 
